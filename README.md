@@ -6,7 +6,7 @@ A modern, responsive personal portfolio website to showcase projects, skills, an
 
 ## Live Demo
 
-Website: [chrixjohn.github.io](chrixjohn.github.io)
+Website: <a href="https://chrixjohn.github.io" target="_blank" rel="noopener noreferrer">chrixjohn.github.io</a>
 
 ---
 
